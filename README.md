@@ -1,1 +1,2 @@
-# ahj-forms1
+# ahj-forms1 [![Build status](https://ci.appveyor.com/api/projects/status/k1ld0dofuv2vpl91?svg=true)](https://ci.appveyor.com/project/barsich/ahj-forms1)
+[gh-pages](https://barsich.github.io/ahj-forms1/)
